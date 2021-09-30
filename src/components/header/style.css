@@ -1,0 +1,41 @@
+header{
+    height: 200px;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0 auto;
+
+    border-bottom: 1px solid #e0e0e0;
+}
+
+header img {
+    max-height: 180px;
+}
+
+.menu{
+    width: 50%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu a {
+    height: 50%;
+    width: 130px;
+
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px; 
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: 500;
+    color: rgb(15, 189, 166);
+
+    box-shadow: -4px 4px rgb(15, 189, 166);
+    border: 1px solid rgb(15, 189, 166);
+}
