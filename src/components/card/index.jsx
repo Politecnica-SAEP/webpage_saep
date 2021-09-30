@@ -11,7 +11,7 @@ export default function Card(props) {
             return '(20h - 22h)'
         }
 
-        if(horario === 'Vespertino'.toLowerCase()) {
+        if(horario === 'vespertino'.toLowerCase()) {
             return '(18h - 19h)'
         }
 
