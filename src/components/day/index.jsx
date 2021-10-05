@@ -14,7 +14,7 @@ export default function Day(props) {
     }
 
     const renderCards = () => filteredCards.map((card, index) => <Card key={index} {...card} />)
-    
+
 
     useEffect(() => {
 
@@ -25,6 +25,7 @@ export default function Day(props) {
 
     return (
         <Fragment>
+            
             <div className='dropdown' onClick={handleClick}>
                 <h2>{props.title}</h2>
                 <div className={areaExpanded ? 'area-expanded' : 'area-closed'} />
