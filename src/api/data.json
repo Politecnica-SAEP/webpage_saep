@@ -71,10 +71,10 @@
             " Primeiros Passos",
             " Dicas",
             " Iniciante",
-            " Tecnologia",
-            ""
+            " Tecnologia"
         ],
-        "horario": "noite"
+        "horario": "noite",
+        "link": ""
     },
     {
         "titulo": "Fabricação Digital na Arquitetura",
@@ -114,7 +114,9 @@
         "participantes": "Gabriel de Oliveira Urtiaga",
         "resumo": "Será abordada a condição multidisciplinar dos trabalhos realizados por profissionais peritos papiloscopistas durante a busca, revelação e levantamento de fragmentos de impressões digitais deixadas por criminosos em locais de crimes, bem como a importância desses vestígios na resolução de crimes.",
         "palavras-chave": [
-            "nan"
+            "Perícia",
+            "Papiloscopia",
+            "Inteligência Forense"
         ],
         "horario": "noite"
     },
