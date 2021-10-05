@@ -27,7 +27,7 @@ p{
     font-size: 14px;
 }
 
-a{
+.card a{
     font-family: nunito;
     color: #086464;
     display: flex;
