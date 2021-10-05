@@ -1,31 +1,395 @@
 [
     {
+        "titulo": "Prática de Levantamento Topográfico planialtimétrico Georreferenciado - Edição POA",
+        "dia": "20",
+        "participantes": [
+            "Adriane Brill Thum"
+        ],
+        "resumo": "Essa prática visa oportunizar o aluno a experimentar equipamentos topográficos e realizar um levantamento na prática. Fazer o reconhecimento da área, manusear equipamentos, coletar dados, realizar medições, identificar as informações, realizar cálculos e fazer a representação gráfica do levantamento",
+        "palavras-chave": [
+            "Curso",
+            "Topografia",
+            "Levantamento",
+            "Prática"
+        ],
+        "horario": "tarde das 14:00 às 17:00",
+        "link": "presencial"
+    },
+    {
+        "titulo": "Prática de Levantamento Topográfico planialtimétrico Georreferenciado - Edição São Leo",
+        "dia": "19",
+        "participantes": [
+            "Adriane Brill Thum"
+        ],
+        "resumo": "Essa prática visa oportunizar o aluno a experimentar equipamentos topográficos e realizar um levantamento na prática. Fazer o reconhecimento da área, manusear equipamentos, coletar dados, realizar medições, identificar as informações, realizar cálculos e fazer a representação gráfica do levantamento",
+        "palavras-chave": [
+            "Curso",
+            "Topografia",
+            "Levantamento",
+            "Prática"
+        ],
+        "horario": "manhã das 8:30 as 11:30",
+        "link": "presencial"
+    },
+    {
+        "titulo": "Biased AI: Como a inteligência artificial e o viés de algoritmo atuam no mundo",
+        "dia": "21",
+        "participantes": [
+            "Ana Carolina da Hora",
+            "José Ahirton Lopes"
+        ],
+        "resumo": "Com o crescente uso da inteligência artificial para manipular grandes dados, entenda como devemos nos preparar e o que devemos considerar a fim de manter um algoritmo que avalie grandes cenários de forma justa",
+        "palavras-chave": [
+            "IA",
+            "Viés de Algoritmo",
+            "Machine Learning",
+            "Data Analysis"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3kSYjVJ"
+    },
+    {
+        "titulo": "Explorando o uso estratégico de tecnologias educacionais na sala de aula",
+        "dia": "21",
+        "participantes": [
+            "Ana Lívia Baptistella Araujo "
+        ],
+        "resumo": "As tecnologias educacionais (TE) sempre estiveram presentes na sala de aula. Há uma necessidade dos professores utilizarem essas ferramentas para engajar os estudantes. Nesta palestra, nós iremos explorar o uso das TE de forma estratégica e adaptável para contextos diferentes.",
+        "palavras-chave": [
+            "Tecnologias Educacionais",
+            "Aprendizagem",
+            "Ensino"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/2Y4k2BK"
+    },
+    {
+        "titulo": "Textura em foco: quais os desafios no desenvolvimento de produtos plant-based",
+        "dia": "19",
+        "participantes": [
+            "Ana Sofia Gomes de Pina Mesquita Dinis",
+            "Izabel Boretti",
+            "Viviane Tseng",
+            "Marcelo Luiz Alves",
+            "Daiana de Souza"
+        ],
+        "resumo": "Ana Sofia, engenheira de Alimentos pela Universidade do Algarve-Portugal, Especialista em Aplicações na CEAMSA-Espanha irá falar de evolução do mercado plant-based/lançamentos, alternativas para os produtos cárnicos e soluções funcionais, junto com 3 mediadores da INDUKERN e CEAMSA e a profª Daiana.",
+        "palavras-chave": [
+            "plant-based",
+            "cárnicos"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3ATXRMJ"
+    },
+    {
+        "titulo": "Engenharia de Satélites",
+        "dia": "19",
+        "participantes": [
+            "Andre Pierre Mattei"
+        ],
+        "resumo": "Conheça esse mercado com a Orbital Engenharia, que atua no setor aeroespacial nas áreas de engenharia de sistemas (veículos lançadores, foguetes-sonda e satélites), fornecimento de energia e oferece serviços especiais de engenharia de projeto e manufatura.",
+        "palavras-chave": [
+            "cube-sat",
+            "satelite",
+            "foguete",
+            "aeroespacial",
+            "orbital"
+        ],
+        "horario": "tarde das 15:00 às 17:00",
+        "link": "https://bit.ly/2Y47TN9"
+    },
+    {
+        "titulo": "Os Materiais Metálicos e a Engenharia de Superfície",
+        "dia": "19",
+        "participantes": [
+            "Annelise Zeemann"
+        ],
+        "resumo": "A superfície dos materiais pode precisar de propriedades específicas que melhorem sua função ou operacionalidade, bem diferentes das que o material precisa como um todo; e existem diversos tratamentos térmicos, mecânicos e químicos, além de revestimentos, utilizados para conferir estas propriedades",
+        "palavras-chave": [
+            "Revestimentos",
+            "Tratamentos endurecedores",
+            "Engenharia de superfície"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3CSpCWm"
+    },
+    {
+        "titulo": "Patologias das Construções - Acidentes no Brasil e o que aprendemos com isso.",
+        "dia": "18",
+        "participantes": [
+            "Bernardo Tutikian"
+        ],
+        "resumo": "Acidentes em função de patologias na construção infelizmente são mais comuns do que o desejado, porém, é possível não cometer os mesmos erros do passado estudando-os.",
+        "palavras-chave": [
+            "Patologia",
+            "Construções"
+        ],
+        "horario": "tarde das 15:00 às 17:00",
+        "link": "https://bit.ly/2WnvMhC"
+    },
+    {
+        "titulo": "Estatística para TCC na prática",
+        "dia": "19",
+        "participantes": [
+            "Bethania Brochier"
+        ],
+        "resumo": "Você está terminando o TCC, tem um monte de resultado e não tem ideia de como fazer a análise estatística dessas amostras? Nesse mini curso totalmente prático aprenderemos juntos a fazer algumas análises estatísticas para mandar muito bem no TCC II, mostrando todo o potencial do trabalho realizado. ",
+        "palavras-chave": [
+            "tcc",
+            "estatística"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3m8ejmh"
+    },
+    {
+        "titulo": "Relieve to Live: Desenvolvimento de dispositivos que promovem qualidade de vida e bem estar de pessoas que sofrem de dores crônicas.",
+        "dia": "20",
+        "participantes": [
+            "Bruna Letícia Land"
+        ],
+        "resumo": "O desenvolvimento de tecnologias médicas é muito desafiador, mas pode mudar a vida de muitas pessoas, inclusive as mais próximas de você. Nessa palestra será apresentada a história e processo de desenvolvimento do dispositivo AnaVita da startup Relieve to Live, incubada no Tecnosinos.",
+        "palavras-chave": [
+            "dispositivos médicos",
+            "tecnologia",
+            "saúde",
+            "fisioterapia "
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3iiF4n4"
+    },
+    {
+        "titulo": "Evite Resíduos, Valorize Materiais e Energia, mas não Incinere",
+        "dia": "20",
+        "participantes": [
+            "Carlos Alberto Mendes Moraes",
+            "Henrique Lisbôa da Cruz",
+            "Douglas da Silva Vallada",
+            "Joice Pinho Maciel",
+            "Regina Célia Espinosa Modolo",
+            "Feliciane Andrade Brehm"
+        ],
+        "resumo": "Com o  crescente aumento populacional e de consumo, mesmo com uma série de tecnologias de tratamento de resíduos, não tem sido possível cumprir adequadamente o desafio da sustentabilidade – prevenir, valorizar materiais em ciclo fechado, tornam-se soluções para reduzir impactos ambientais",
+        "palavras-chave": [
+            "Resíduos",
+            "Sustentabilidade",
+            "Impactos",
+            "Ambiental",
+            "Incineração",
+            "Materiais",
+            "Energia"
+        ],
+        "horario": "tarde das 15:00 às 17:00",
+        "link": "https://bit.ly/3kODDhD"
+    },
+    {
+        "titulo": "Sistemas de Gestão de Energia (ISO 50.001:2018)",
+        "dia": "19",
+        "participantes": [
+            "Catiuce Castro Antunes"
+        ],
+        "resumo": "A orientação para uso desta norma transformou o desempenho energético em todo o mundo quando foi publicado, dando-lhes uma ferramenta estratégica para usar sua energia de forma mais eficiente e eficaz. Descubra quais os benefícios e desafios da implantação para a gestão de energia nas organizações.",
+        "palavras-chave": [
+            "ISO",
+            "Energia",
+            "gestão de energia",
+            "caso de uso"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3upvl2P"
+    },
+    {
         "titulo": "Tendências atuais dos materiais bio-compatíveis",
         "dia": "19",
-        "participantes": "Cesar K. Santaella",
+        "participantes": [
+            "Cesar K. Santaella"
+        ],
         "resumo": "Atualmente Diretor Executivo da Ortobras Indústria e Comércio de Ortopedia, empresa que atua desde 2015. Pesquisador do Instituto de Pesquisas Energéticas e Nucleares (IPEN) e sócio fundador da Innovante Consulting. Engenheiro mecânico de formação acadêmica, é doutor em Tecnologia Nuclear pela USP.",
         "palavras-chave": [
             "nan"
         ],
-        "horario": "vespertino"
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3mdlCZQ"
     },
     {
-        "titulo": "Um exemplo de aplicação da integral definida na economia",
+        "titulo": "Diversidade em ti",
         "dia": "19",
-        "participantes": "Professora Marjunia Klein",
-        "resumo": "A função demanda relaciona a quantidade demandada e preço de uma mercadoria. A função oferta relaciona preço e quantidade oferecida da mercadoria. O excedente de consumo é a diferença entre o que os consumidores estariam dispostos a pagar e o que realmente pagam e é calculado pela integral definida",
-        "palavras-chave": [
-            "Matemática",
-            " Economia",
-            " Integral",
-            " Mercado Financeiro"
+        "participantes": [
+            "Clarissa Martins",
+            "Fabiane Kuhn",
+            "Larissa Xavier",
+            "Leonardo Rosa Nunes"
         ],
-        "horario": "vespertino"
+        "resumo": "Com a luta crescente de movimentos inclusivos vamos discutir como essa inclusão é feita em times menores e como ele reflete na sociedades como um todo.",
+        "palavras-chave": [
+            "Diversidade",
+            "Inclusão",
+            ""
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3AUPLU1"
+    },
+    {
+        "titulo": "Codificação de Vídeo: dos conceitos básicos ao Versatile Video Coding",
+        "dia": "20",
+        "participantes": [
+            "Cláudio Machado Diniz"
+        ],
+        "resumo": "Aplicações de vídeo digital possuem um crescente número de usuários. Para transmitir um vídeo digital é necessário um codificador de vídeo  padronizado. Esta palestra apresenta os conceitos básicos sobre codificação de vídeo e o padrão mais recente, o Versatile Video Coding (VVC).",
+        "palavras-chave": [
+            "codec",
+            "HEVC",
+            "VVC",
+            "H.266"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/39S80xk"
+    },
+    {
+        "titulo": "Novos negócios, as transformações na engenharia e o futuro dos profissionais",
+        "dia": "21",
+        "participantes": [
+            "Eloisa Deloss Johann",
+            "Adriano Panazzolo"
+        ],
+        "resumo": "A mudança cultural em organizações tradicionais tem aberto espaço para a inovação e para uma visão mais sustentável dos negócios. Com o HUBITTAT/STE e a psicóloga Eloísa Johann, vamos refletir sobre essas transformações na Engenharia, além do papel e o futuro do profissional da área nesse contexto.",
+        "palavras-chave": [
+            "Engenharia",
+            "Sustentabilidade",
+            "Negócios",
+            "Carreira",
+            "Inovação",
+            ""
+        ],
+        "horario": "tarde das 15:00 às 17:00",
+        "link": "https://bit.ly/3B1oZcM"
+    },
+    {
+        "titulo": "Plásticos como Materiais de Engenharia na Indústria",
+        "dia": "22",
+        "participantes": [
+            "Ensinger Brasil"
+        ],
+        "resumo": "A palestra tem como objetivo traçar um panorama dos principais plásticos de engenharia e alta performance fabricados e comercializados no Brasil atualmente, relacionando suas principais características técnicas com as demandas críticas das aplicações e respectivos segmentos industriais que atendem.",
+        "palavras-chave": [
+            "SEGMENTOS INDUSTRIAIS",
+            "PLÁSTICOS DE ENGENHARIA",
+            "PLÁSTICOS DE ALTA PERFORMANCE"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3CX6tmb"
+    },
+    {
+        "titulo": "De resíduo a coproduto: uma avaliação prática na busca de soluções",
+        "dia": "20",
+        "participantes": [
+            "Feliciane Andrade Brehm"
+        ],
+        "resumo": "Com uma boa caracterização é possível planejar a transformação de um resíduo em produto. Mas, quais técnicas devo usar? Calma! As vezes, melhor do que a técnica, é ter as perguntas certas para fazer uma avaliação certeira do material que se está trabalhando para conhecê-lo. Vamos falar sobre isso?",
+        "palavras-chave": [
+            "Coproduto",
+            "técnicas analíticas. resíduo"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3CUBoj9"
+    },
+    {
+        "titulo": "Evento Magno: E o amanhã?",
+        "dia": "20",
+        "participantes": [
+            "Fernando Finger",
+            "Arthur Liraneto Torres Costa",
+            "Julia Rolim da Silva",
+            "Vanusa Braz",
+            "Paula Vieira Schwade"
+        ],
+        "resumo": "E o amanhã? Em uma área que muda o tempo todo, que vai do tradicional as tecnologias mais avançadas em questão de dias, como e/ou onde nós estaremos amanhã? Que tal ouvir as histórias de profissionais que podem nos inspirar nessa caminhada?",
+        "palavras-chave": [
+            "o amanhã"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/2Zzd73A"
+    },
+    {
+        "titulo": "Introdução à Fluidodinâmica Computacional (CFD) e suas Aplicações Industriais",
+        "dia": "21",
+        "participantes": [
+            "Flávia Schwarz Franceschini Zinani",
+            "Luis Gonçalves"
+        ],
+        "resumo": "Apresentaremos os fundamentos e capacidades da CFD. Abordaremos aplicações e estudos de caso realizados pela ESSS envolvendo diversos setores da indústria. Por fim, mostraremos também as pesquisas desenvolvidas na Unisinos.",
+        "palavras-chave": [
+            "CFD",
+            "ESSS",
+            "Indústria"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3usRb5B"
+    },
+    {
+        "titulo": "Metrologia e Qualidade ",
+        "dia": "19",
+        "participantes": [
+            "Gerson Eduardo Mello"
+        ],
+        "resumo": "Abordar temas como importância de incerteza de medição, conhecer normas, aplicação da incerteza na calibração e qualidade de instrumentos e análises ambientais. Importância da metrologia na engenharia. ",
+        "palavras-chave": [
+            "Metrologia e Qualidade"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3ik2YhH"
+    },
+    {
+        "titulo": "Tutorial de LaTeX",
+        "dia": "22",
+        "participantes": [
+            "Guilherme Angelo Piaia"
+        ],
+        "resumo": "LaTeX é um sistema de preparação de documentos. Ao escrever, o escritor usa texto simples, ao invés do texto formatado encontrado em processadores de texto WYSIWYG. Aprenda neste tutorial a escrever seus artigos acadêmicos e TCC de forma elegante e eficiente.",
+        "palavras-chave": [
+            "LaTeX",
+            "trabalhos acadêmicos"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/39NItFJ"
+    },
+    {
+        "titulo": "Redes wireless e wearables na indústria",
+        "dia": "22",
+        "participantes": [
+            "Guilherme Angelo Piaia"
+        ],
+        "resumo": "Redes wireless e wearables já são uma realidade na indústria, entretanto algumas considerações devem ser feitas em suas aplicações. Saiba o quê está sendo feito na prática para a transformação deste cenário.",
+        "palavras-chave": [
+            "wearables",
+            "Redes wireless",
+            "indústria"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3F2AmU6"
+    },
+    {
+        "titulo": "Construções Ágeis | Com Pensamento Modular",
+        "dia": "21",
+        "participantes": [
+            "Jonathan Degani"
+        ],
+        "resumo": "Apresentarei a história da Brasil ao Cubo e quem somos. Vocês também conhecerão alguns de nossos cases, como o Edifício Level com 8 pavimentos que foi fabricado e instalado em apenas 100 dias e as unidades hospitalares que construímos durante a pandemia com prazo médio de 33 dias.",
+        "palavras-chave": [
+            "modular",
+            "construção",
+            "sustentabilidade",
+            "ágil",
+            "arquitetura"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/39NbMIm"
     },
     {
         "titulo": "A Iniciação Científica no Contexto da BNCC",
         "dia": "19",
-        "participantes": "José Breno da Cruz",
+        "participantes": [
+            "José Breno da Cruz"
+        ],
         "resumo": "Mostrar a importância da metodologia científica como processo de ensino aprendizagem buscando o protagonismo do aluno e o papel de orientador do professor.",
         "palavras-chave": [
             "Pesquisa",
@@ -34,543 +398,366 @@
             "Aprendizagem",
             "Educação"
         ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Explorando o uso estratégico de tecnologias educacionais na sala de aula",
-        "dia": "21",
-        "participantes": "Ana Lívia Baptistella Araujo",
-        "resumo": "As tecnologias educacionais (TE) sempre estiveram presentes na sala de aula. Há uma necessidade dos professores utilizarem essas ferramentas para engajar os estudantes. Nesta palestra, nós iremos explorar o uso das TE de forma estratégica e adaptável para contextos diferentes.",
-        "palavras-chave": [
-            "Tecnologias Educacionais",
-            "Aprendizagem",
-            "Ensino"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Pix, todo mundo usa, mas você sabe como ele funciona ?",
-        "dia": "18",
-        "participantes": "Leonardo Broch de Morais",
-        "resumo": "Atividade para entender o funcionamento tecnológico por trás desse meio de pagamento que chegou para revolucionar o mercado ! Com menos de um ano de existência ultrapassou os trilhões em valores e é mais usado que o TED e o DOC.",
-        "palavras-chave": [
-            "Pix",
-            " tecnologia",
-            " negócio",
-            " TI"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Entrei na TI, e agora ?",
-        "dia": "22",
-        "participantes": "Matheus Melchiades, Georgina Reategui, Márcia Cunha dos Santos, Fábio Alves, Lucas Braum, Gilberto Irajá e Rosemary Francisco",
-        "resumo": "Após entrar na faculdade de TI surge aquela dúvida, o que devo fazer para me destacar e para me inserir no mercado de trabalho, então nada melhor do que um bate papo com profissionais formados na Unisinos e Professores para darem dicas.",
-        "palavras-chave": [
-            "TI",
-            " Primeiros Passos",
-            " Dicas",
-            " Iniciante",
-            " Tecnologia"
-        ],
-        "horario": "noite",
-        "link": ""
-    },
-    {
-        "titulo": "Fabricação Digital na Arquitetura",
-        "dia": "18",
-        "participantes": "Paulo Eduardo Fonseca de Campos",
-        "resumo": "A disseminação das tecnologias digitais de fabricação vem sendo associada à\nteoria de uma produção arquitetônica contemporânea não padronizada, com ênfase à\nflexibilidade e variedade. Como a fabricação digital poderá coadjuvar processos sociais vinculados à Arquitetura e território, na escala local.",
-        "palavras-chave": [
-            "nan"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Fiscalização e Autuações ambientais no Estado do Rio Grande do Sul.",
-        "dia": "21",
-        "participantes": "Luciano Pazinato Martins",
-        "resumo": "Informar como funcionam as ações de fiscalizações ambientais no Estado do Rio Grande do Sul e de que forma as sansões punitivas na esfera administrativa são realizadas",
-        "palavras-chave": [
-            "Fiscalização",
-            " Autuações",
-            " Legislação Ambiental"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Lixo espacial: a bagunça que estamos fazendo fora de casa",
-        "dia": "18",
-        "participantes": "Pablo Diniz Mello",
-        "resumo": "Lixo espacial: a bagunça que estamos fazendo fora de casa",
-        "palavras-chave": [
-            "nan"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Resolução de crimes por impressões digitais e a multidisciplinariedade da Papiloscopia Forense",
-        "dia": "19",
-        "participantes": "Gabriel de Oliveira Urtiaga",
-        "resumo": "Será abordada a condição multidisciplinar dos trabalhos realizados por profissionais peritos papiloscopistas durante a busca, revelação e levantamento de fragmentos de impressões digitais deixadas por criminosos em locais de crimes, bem como a importância desses vestígios na resolução de crimes.",
-        "palavras-chave": [
-            "Perícia",
-            "Papiloscopia",
-            "Inteligência Forense"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Estradas diferentes para o aprendizado contínuo além da engenharia: trajetórias de engenheiras de alimentos",
-        "dia": "21",
-        "participantes": "Liz Marcela Alves, Ana Cristina Duarte",
-        "resumo": "Este evento irá contar com a fala de duas profissionais egressas da Unisinos do curso de engenharia de alimentos, para uma roda de conversa sobre suas diferentes trajetórias desde a época da graduação, até as diferentes áreas que formam suas carreiras, sempre na busca de um aprendizado contínuo.",
-        "palavras-chave": [
-            "nan"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Textura em foco: quais os desafios no desenvolvimento de produtos plant-based",
-        "dia": "19",
-        "participantes": "Ana Sofia Gomes de Pina Mesquita Dinis,Izabel Boretti,Viviane Tseng,Marcelo Alves,Daiana de Souza",
-        "resumo": "Ana Sofia, engenheira de Alimentos pela Universidade do Algarve-Portugal, Especialista em Aplicações na CEAMSA-Espanha irá falar de evolução do mercado plant-based/lançamentos, alternativas para os produtos cárnicos e soluções funcionais, junto com 3 mediadores da INDUKERN e CEAMSA e a profª Daiana.",
-        "palavras-chave": [
-            "nan"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "A Engenharia e o profissional do Amanhã",
-        "dia": "22",
-        "participantes": "Nanci Walter",
-        "resumo": "Debater meios de utilizar das habilitações e relações em atividades profissionais criativas.\nA Engenharia e Agronomia promovendo o desenvolvimento.",
-        "palavras-chave": [
-            "CREA",
-            " Engenharia",
-            " Conselho Regional"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Ferramentas livres para projeto de circuito integrado - Parte 1",
-        "dia": "19",
-        "participantes": "Sandro Binsfeld Ferreira, Rodrigo Nogueira Wuerdig, Paulo Cesar Comasseto Aguirre",
-        "resumo": "Recentemente, a Google anunciou um programa de fabricação de circuitos integrados usando ferramentas opensource através da foundry SkyWater. Mas, como é a fabricação de CIs? Será que eu posso projetar CIs usando ferramentas livres?\nNa parte 1 Conheça e instale as ferramentas.",
-        "palavras-chave": [
-            "Microeletrônica",
-            "Open-source",
-            "SkyWater"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Ferramentas livres para projeto de circuito integrado - Parte 2",
-        "dia": "19",
-        "participantes": "Sandro Binsfeld Ferreira, Rodrigo Nogueira Wuerdig, Paulo Cesar Comasseto Aguirre",
-        "resumo": "Recentemente, a Google anunciou um programa de fabricação de circuitos integrados usando ferramentas opensource através da foundry SkyWater. Mas, como é a fabricação de CIs? Será que eu posso projetar CIs usando ferramentas livres?\nNa parte 2 que tal tirar estas dúvidas em um tutorial Hands-on?",
-        "palavras-chave": [
-            "microeletrônica",
-            " CI",
-            " opensource",
-            " google",
-            " SkyWater"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Sistemas de Gestão de Energia (ISO 50.001:2018)",
-        "dia": "19",
-        "participantes": "Catiuce Castro Antunes",
-        "resumo": "A orientação para uso desta norma transformou o desempenho energético em todo o mundo quando foi publicado, dando-lhes uma ferramenta estratégica para usar sua energia de forma mais eficiente e eficaz. Descubra quais os benefícios e desafios da implantação para a gestão de energia nas organizações.",
-        "palavras-chave": [
-            "ISO",
-            " Energia",
-            " gestão de energia",
-            " caso de uso"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Tutorial de LaTeX",
-        "dia": "22",
-        "participantes": "Guilherme Angelo Piaia",
-        "resumo": "LaTeX é um sistema de preparação de documentos. Ao escrever, o escritor usa texto simples, ao invés do texto formatado encontrado em processadores de texto WYSIWYG. Aprenda neste tutorial a escrever seus artigos acadêmicos e TCC de forma elegante e eficiente.",
-        "palavras-chave": [
-            "LaTeX",
-            " trabalhos acadêmicos"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Redes wireless e wearables na indústria",
-        "dia": "22",
-        "participantes": "Guilherme Angelo Piaia",
-        "resumo": "Redes wireless e wearables já são uma realidade na indústria, entretanto algumas considerações devem ser feitas em suas aplicações. Saiba o quê está sendo feito na prática para a transformação deste cenário.",
-        "palavras-chave": [
-            "wearables",
-            " Redes wireless",
-            " indústria"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Crise hídrica / Racionamento de energia",
-        "dia": "21",
-        "participantes": "Sara Gabriela Wirti",
-        "resumo": "Palestra com a analista em inteligência de mercado na empresa ENGIE Brasil sobre a crise hídrica e o racionamento de energia.",
-        "palavras-chave": [
-            "crise hídrica",
-            " Engie",
-            " racionamento de energia"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Engenharia de Satélites",
-        "dia": "19",
-        "participantes": "Andre Pierre Mattei",
-        "resumo": "Conheça esse mercado com a Orbital Engenharia, que atua no setor aeroespacial nas áreas de engenharia de sistemas (veículos lançadores, foguetes-sonda e satélites), fornecimento de energia e oferece serviços especiais de engenharia de projeto e manufatura.",
-        "palavras-chave": [
-            "cube-sat",
-            " satelite",
-            " foguete",
-            " aeroespacial",
-            " orbital"
-        ],
-        "horario": "tarde"
-    },
-    {
-        "titulo": "Codificação de Vídeo: dos conceitos básicos ao Versatile Video Coding",
-        "dia": "20",
-        "participantes": "Cláudio Machado Diniz",
-        "resumo": "Aplicações de vídeo digital possuem um crescente número de usuários. Para transmitir um vídeo digital é necessário um codificador de vídeo padronizado. Esta palestra apresenta os conceitos básicos sobre codificação de vídeo e o padrão mais recente, o Versatile Video Coding (VVC).",
-        "palavras-chave": [
-            "codec",
-            " HEVC",
-            " VVC",
-            " H.266"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Estudo de caso NOVUS: Criando um produto IoT, da concepção ao lançamento",
-        "dia": "21",
-        "participantes": "Sandro Rafael dos Santos",
-        "resumo": "Nesta apresentação, o Diretor de P&D da empresa NOVUS Produtos Eletrônicos apresentará o estudo de caso do desenvolvimento de um produto IoT desde a sua concepção até o seu lançamento.\n",
-        "palavras-chave": [
-            "iot",
-            " Novus",
-            " P&D",
-            " estudo de caso"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "O que é Futures Literacy e porque precisamos falar sobre isso",
-        "dia": "21",
-        "participantes": "Yasmim Seadi",
-        "resumo": "E se o futuro fosse desenhado através de uma só perspectiva?\n\nAo imaginar diferentes futuros, as pessoas podem se tornar cientes de sua capacidade de moldar e inventar novas suposições, para que possamos apreciar mais plenamente a diversidade do mundo ao nosso redor e as escolhas que fazemos.",
-        "palavras-chave": [
-            "futurismo",
-            " alfabetização de futuro",
-            " tecnologia"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Biased AI: Como a inteligência artificial e o viés de algoritmo atuam no mundo",
-        "dia": "21",
-        "participantes": "Ana Carolina da Hora; José Ahirton Lopes",
-        "resumo": "Com o crescente uso da inteligência artificial para manipular grandes dados, entenda como devemos nos preparar e o que devemos considerar a fim de manter um algoritmo que avalie grandes cenários de forma justa",
-        "palavras-chave": [
-            "IA; Viés de Algoritmo; Machine Learning; Data Analysis;"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Diversidade em ti",
-        "dia": "19",
-        "participantes": "Clarrisa Soares, Fabiane Kuhn, Larissa Xavier, Leonardo Nunes",
-        "resumo": "Com a luta crescente de movimentos inclusivos vamos discutir como essa inclusão é feita em times menores e como ele reflete na sociedades como um todo.",
-        "palavras-chave": [
-            "Diversidade; Inclusão;"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Sirius e os Aceleradores de Partículas como Fonte de Luz Síncrotron",
-        "dia": "22",
-        "participantes": "Liu Lin",
-        "resumo": "Introdução à luz sincrotron, desafios de Física e Engenharia envolvidos na construção dos aceleradores de partículas, necessários para uma fonte de luz de altíssimo brilho. Apresentaremos os desenvolvimentos tecnológicos que fazem do Sirius uma das fontes mais brilhantes do mundo atualmente.",
-        "palavras-chave": [
-            "Sirius",
-            " Luz sincrotron",
-            " Acelerador de particula"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Estatística para TCC na prática",
-        "dia": "19",
-        "participantes": "Bethania Brochier",
-        "resumo": "Você está terminando o TCC, tem um monte de resultado e não tem ideia de como fazer a análise estatística dessas amostras? Nesse mini curso totalmente prático aprenderemos juntos a fazer algumas análises estatísticas para mandar muito bem no TCC II, mostrando todo o potencial do trabalho realizado.",
-        "palavras-chave": [
-            "tcc",
-            " estatística"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Construindo aplicativos em Visual Basic para cálculos em Engenharia Química e de Alimentos",
-        "dia": "21",
-        "participantes": "Paulo Ricardo Santos da Silva",
-        "resumo": "Nesta oficina aprenderemos a construir um aplicativo em Visual Basic para resolver cálculos de processos e projetos de Engenharia. Serão abordadas as principais ferramentas e comandos de criação, desde o projeto conceitual, a elaboração do algoritmo, construção da interface com o usuário e os testes",
-        "palavras-chave": [
-            "Visual Basic",
-            " aplicativo",
-            " cálculos de engenharia"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "De resíduo a coproduto: uma avaliação prática na busca de soluções",
-        "dia": "20",
-        "participantes": "Feliciane Andrade Brehm",
-        "resumo": "Com uma boa caracterização é possível planejar a transformação de um resíduo em produto. Mas, quais técnicas devo usar? Calma! As vezes, melhor do que a técnica, é ter as perguntas certas para fazer uma avaliação certeira do material que se está trabalhando para conhecê-lo. Vamos falar sobre isso?",
-        "palavras-chave": [
-            "Coproduto",
-            " técnicas analíticas. resíduo"
-        ],
-        "horario": "vespertino"
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3maODp1"
     },
     {
         "titulo": "Perícia Criminal e seus Desafios",
         "dia": "19",
-        "participantes": "Lara Regina Soccol Gris",
-        "resumo": "O Instituto-Geral de Perícias é o responsável, aqui no RS, por emitir laudos que auxiliam a elucidar diversos crimes, através da avaliação de provas materiais. Durante a palestra, saberemos sobre a atividade dos peritos no IGP e quais a competências necessárias para se tornar perito criminal.",
-        "palavras-chave": [
-            "perícia",
-            " química forense",
-            " análise",
-            " IGP"
+        "participantes": [
+            "Lara Regina Soccol Gris",
+            "Gabriel de Oliveira Urtiaga"
         ],
-        "horario": "noite"
+        "resumo": "Um bate papo entre o Gabriel, Perito Papiloscopista da Polícia Federal e a Lara, Perita Criminal do Instituto-Geral de Perícias (IGP-RS), sobre os desafios de suas profissões na busca por provas e no levamento de dados para gerar material que auxilia na resolução de crimes. Além saberemos mais sobre quais as competências necessárias para atuar na área e quais as oportunidades para um dia se tornar um perito.",
+        "palavras-chave": [
+            "preícia criminal",
+            "papiloscopia",
+            "polícia federal"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3imaUz5"
     },
     {
-        "titulo": "Prática de Levantamento Topográfico planialtimétrico Georreferenciado - Edição POA",
-        "dia": "",
-        "participantes": "Adriane Brill Thum",
-        "resumo": "Essa prática visa oportunizar o aluno a experimentar equipamentos topográficos e realizar um levantamento na prática. Fazer o reconhecimento da área, manusear equipamentos, coletar dados, realizar medições, identificar as informações, realizar cálculos e fazer a representação gráfica do levantamento",
-        "palavras-chave": [
-            "Curso; Topografia; Levantamento; Prática"
+        "titulo": "Pix, todo mundo usa, mas você sabe como ele funciona ?",
+        "dia": "18",
+        "participantes": [
+            "Leonardo Broch de Morais "
         ],
-        "horario": ""
+        "resumo": "Atividade para entender o funcionamento tecnológico por trás desse meio de pagamento que chegou para revolucionar o mercado ! Com menos de um ano de existência ultrapassou os trilhões em valores e é mais usado que o TED e o DOC. ",
+        "palavras-chave": [
+            "Pix",
+            "tecnologia",
+            "negócio",
+            "TI"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3mdHrsa"
     },
     {
-        "titulo": "Prática de Levantamento Topográfico planialtimétrico Georreferenciado - Edição São Leo",
-        "dia": "",
-        "participantes": "Adriane Brill Thum",
-        "resumo": "Essa prática visa oportunizar o aluno a experimentar equipamentos topográficos e realizar um levantamento na prática. Fazer o reconhecimento da área, manusear equipamentos, coletar dados, realizar medições, identificar as informações, realizar cálculos e fazer a representação gráfica do levantamento",
-        "palavras-chave": [
-            "Curso; Topografia; Levantamento; Prática"
-        ],
-        "horario": ""
-    },
-    {
-        "titulo": "Microfabricação para dispositivos da saúde",
+        "titulo": "Sirius e os Aceleradores de Partículas como Fonte de Luz Síncrotron",
         "dia": "22",
-        "participantes": "Sabrina Nunes, Luíse Dallo",
-        "resumo": "Os processos de microfabricação se propõem a desenvolver novas tecnologias capazes de promover o bem-estar e a saúde das pessoas. Nesse bate papo, serão abordados tópicos sobre processos, exemplos e aplicações. Conheça projetos que estão sendo desenvolvidos na Unisinos e o trabalho elaborado por uma graduanda de Eng. Biomédica",
-        "palavras-chave": [
-            "microfabricação",
-            " eletrônica",
-            " sensores",
-            " saude"
+        "participantes": [
+            "Liu Lin"
         ],
-        "horario": "noite"
+        "resumo": "Introdução à luz sincrotron, desafios de Física e Engenharia envolvidos na construção dos aceleradores de partículas, necessários para uma fonte de luz de altíssimo brilho. Apresentaremos os desenvolvimentos tecnológicos que fazem do Sirius uma das fontes mais brilhantes do mundo atualmente.",
+        "palavras-chave": [
+            "Sirius",
+            "Luz sincrotron",
+            "Acelerador de particula"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3AWuM30"
     },
     {
-        "titulo": "Os Materiais Metálicos e a Engenharia de Superfície",
-        "dia": "19",
-        "participantes": "Annelise Zeemann",
-        "resumo": "A superfície dos materiais pode precisar de propriedades específicas que melhorem sua função ou operacionalidade, bem diferentes das que o material precisa como um todo; e existem diversos tratamentos térmicos, mecânicos e químicos, além de revestimentos, utilizados para conferir estas propriedades",
-        "palavras-chave": [
-            "Revestimentos; Tratamentos endurecedores; Engenharia de superfície"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Introdução à Fluidodinâmica Computacional (CFD) e suas Aplicações Industriais",
+        "titulo": "Estradas diferentes para o aprendizado contínuo além da engenharia: trajetórias de engenheiras de alimentos",
         "dia": "21",
-        "participantes": "Flávia Schwarz Franceschini Zinani, Luis Gonçalves",
-        "resumo": "Apresentaremos os fundamentos e capacidades da CFD. Abordaremos aplicações e estudos de caso realizados pela ESSS envolvendo diversos setores da indústria. Por fim, mostraremos também as pesquisas desenvolvidas na Unisinos.",
-        "palavras-chave": [
-            "CFD",
-            "ESSS",
-            "Indústria"
+        "participantes": [
+            "Liz Marcela Alves",
+            "Ana Cristina Duarte"
         ],
-        "horario": "noite"
+        "resumo": "Este evento irá contar com a fala de duas profissionais egressas da Unisinos do curso de engenharia de alimentos, para uma roda de conversa sobre suas diferentes trajetórias desde a época da graduação, até as diferentes áreas que formam suas carreiras, sempre na busca de um aprendizado contínuo.",
+        "palavras-chave": [
+            "bate-bapo",
+            "eng alimentos"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3F5JgQM"
     },
     {
-        "titulo": "Plásticos como Materiais de Engenharia na Indústria",
-        "dia": "22",
-        "participantes": "Ensinger Brasil",
-        "resumo": "A palestra tem como objetivo traçar um panorama dos principais plásticos de engenharia e alta performance fabricados e comercializados no Brasil atualmente, relacionando suas principais características técnicas com as demandas críticas das aplicações e respectivos segmentos industriais que atendem.",
-        "palavras-chave": [
-            "INDÚSTRIA",
-            "SEGMENTOS INDUSTRIAIS",
-            "PLÁSTICOS DE ALTA PERFORMANCE"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Experiências de intercâmbio pela Engenharia",
-        "dia": "22",
-        "participantes": "Thaise Steffani, Matheus Pessanha, Isabella Mi Hyun Kim",
-        "resumo": "Essa palestra será uma troca de experiência entre alunos da Engenharia que fizeram intercambio na área. Muitas vezes acreditamos que é um sonho distante ter uma experiência fora do Brasil, mas na verdade existe muitas oportunidade.",
-        "palavras-chave": [
-            "Intercâmbio",
-            " Engenharias"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Novos negócios, as transformações na engenharia e o futuro dos profissionais",
+        "titulo": "Fiscalização e Autuações ambientais no Estado do Rio Grande do Sul.",
         "dia": "21",
-        "participantes": "Eloisa Deloss Johann, Adriano Panazzolo",
-        "resumo": "A mudança cultural em organizações tradicionais tem aberto espaço para a inovação e para uma visão mais sustentável dos negócios. Com o HUBITTAT/STE e a psicóloga Eloísa Johann, vamos refletir sobre essas transformações na Engenharia, além do papel e o futuro do profissional da área nesse contexto.",
-        "palavras-chave": [
-            "Engenharia",
-            " Sustentabilidade",
-            " Negócios",
-            " Carreira",
-            " Inovação",
-            ""
+        "participantes": [
+            "Luciano Pazinato Martins"
         ],
-        "horario": "tarde"
-    },
-    {
-        "titulo": "Evite Resíduos, Valorize Materiais e Energia, mas não Incinere",
-        "dia": "20",
-        "participantes": "Carlos Alberto Mendes Moraes, Henrique Cruz, Douglas Vallada, Joice Pinho Maciel, Regina Célia Espinosa Modolo, Feliciane Andrade Brehm",
-        "resumo": "Com o crescente aumento populacional e de consumo, mesmo com uma série de tecnologias de tratamento de resíduos, não tem sido possível cumprir adequadamente o desafio da sustentabilidade – prevenir, valorizar materiais em ciclo fechado, tornam-se soluções para reduzir impactos ambientais",
+        "resumo": "Informar como funcionam as ações de fiscalizações ambientais no Estado do Rio Grande do Sul e de que forma as sansões punitivas na esfera administrativa são realizadas",
         "palavras-chave": [
-            "Resíduos",
-            " Sustentabilidade",
-            " Impactos",
-            " Ambiental",
-            " Incineração",
-            " Materiais",
-            " Energia"
+            "Fiscalização",
+            "Autuações",
+            "Legislação Ambiental"
         ],
-        "horario": "tarde"
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3CXWb5n"
     },
     {
         "titulo": "Conscientização Ambiental - SGA UNISINOS",
         "dia": "21",
-        "participantes": "Marcelo Oliveira Caetano, Adriane Brill Thum, Elisa Kerber Schoenell",
+        "participantes": [
+            "Marcelo Oliveira Caetano",
+            "Adriane Brill Thum",
+            "Elisa Kerber Schoenell"
+        ],
         "resumo": "Você sabia que a Unisinos foi a primeira Universidade certificada ISO 14001 da América Latina? Neste painel vamos falar sobre o Sistema de Gestão Ambiental e a certificação ISO 14001 da Unisinos.",
         "palavras-chave": [
             "ISO 14001",
-            " SGA",
-            " Gestão Ambiental"
+            "SGA",
+            "Gestão Ambiental"
         ],
-        "horario": "vespertino"
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3CXfWKb"
     },
     {
         "titulo": "Comunidades Sustentáveis e Certificação ISO 14001",
         "dia": "19",
-        "participantes": "Marcelo Oliveira Caetano, Aline Callegaro de Paula Bueno, Viviana Reckziegel, Henrique Puntel, Aline Oliveira",
-        "resumo": "Você sabia que a Unisinos se tornou hub de referência do ODS 11 da Agenda 2030 da ONU? Neste painel vamos falar um pouco a respeito do assunto e discutir sobre a certificação ambiental ISO 14001 nas organizações contando com a participação das empresas GKN, CRVR e Sthil",
+        "participantes": [
+            "Marcelo Oliveira Caetano",
+            "Aline Callegaro de Paula Bueno",
+            "Viviana Reckziegel",
+            "Henrique Puntel",
+            "Aline Oliveira"
+        ],
+        "resumo": "Você sabia que a Unisinos se tornou hub de referência do ODS 11 da Agenda 2030 da ONU? Neste painel vamos falar um pouco a respeito do assunto e discutir sobre a certificação ambiental ISO 14001 nas organizações contando com a participação das empresas GKN, CRVR e Sthil ",
         "palavras-chave": [
             "ODS 11",
-            " Comunidades Sustentáveis",
-            " Certificação",
-            " ISO 14001",
-            " Gestão Ambiental"
+            "Comunidades Sustentáveis",
+            "Certificação",
+            "ISO 14001",
+            "Gestão Ambiental "
         ],
-        "horario": "noite"
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3kQqdSe"
     },
     {
-        "titulo": "Metrologia e Qualidade",
-        "dia": "19",
-        "participantes": "Gerson Eduardo de Mello",
-        "resumo": "Abordar temas como importância de incerteza de medição, conhecer normas, aplicação da incerteza na calibração e qualidade de instrumentos e análises ambientais. Importância da metrologia na engenharia.",
-        "palavras-chave": [
-            "nan"
-        ],
-        "horario": "noite"
-    },
-    {
-        "titulo": "Curso de Design Higiênico",
+        "titulo": "Entrei na TI, e agora ?",
         "dia": "22",
-        "participantes": "Suse Botelho da Silva, Walter Andrey Fontana",
-        "resumo": "Abordará sobre os equipamentos da indústria e suas características para que seja higiênico e dentro da legislação.",
+        "participantes": [
+            "Mateus Begnini Melchiades",
+            "Georgina Zwahr Reategui",
+            "Márcia Cunha dos Santos",
+            "Fábio Alves",
+            "Lucas Braum",
+            "Gilberto Irajá Müller",
+            "Rosemary Francisco"
+        ],
+        "resumo": "Após entrar na faculdade de TI surge aquela dúvida, o que devo fazer para me destacar e para me inserir no mercado de trabalho, então nada melhor do que um bate papo com profissionais formados na Unisinos e Professores para darem dicas.",
+        "palavras-chave": [
+            "TI",
+            "Primeiros Passos",
+            "Dicas",
+            "Iniciante",
+            "Tecnologia",
+            ""
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3F3b5ZV"
+    },
+    {
+        "titulo": "A Engenharia e o profissional do Amanhã",
+        "dia": "22",
+        "participantes": [
+            "Nanci Walter"
+        ],
+        "resumo": "Debater meios de utilizar das habilitações e relações em atividades profissionais criativas.\nA Engenharia e Agronomia promovendo o desenvolvimento.",
+        "palavras-chave": [
+            "CREA",
+            "Engenharia",
+            "Conselho Regional"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3zYCyIh"
+    },
+    {
+        "titulo": "Lixo espacial: a bagunça que estamos fazendo fora de casa",
+        "dia": "18",
+        "participantes": [
+            "Pablo Diniz Mello"
+        ],
+        "resumo": "Lixo espacial: a bagunça que estamos fazendo fora de casa",
+        "palavras-chave": [
+            "lixo especial"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3iluyLL"
+    },
+    {
+        "titulo": "Fabricação Digital na Arquitetura",
+        "dia": "18",
+        "participantes": [
+            "Paulo Eduardo Fonseca de Campos"
+        ],
+        "resumo": "A disseminação das tecnologias digitais de fabricação vem sendo associada à\nteoria de uma produção arquitetônica contemporânea não padronizada, com ênfase à\nflexibilidade e variedade. Como a fabricação digital poderá coadjuvar processos sociais vinculados à Arquitetura e território, na escala local.",
+        "palavras-chave": [
+            "arquitetura",
+            "fabricação digital"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3D1v4WS"
+    },
+    {
+        "titulo": "Construindo aplicativos em Visual Basic para cálculos em Engenharia Química e de Alimentos",
+        "dia": "21",
+        "participantes": [
+            "Paulo Ricardo Santos da Silva"
+        ],
+        "resumo": "Nesta oficina aprenderemos a construir um aplicativo em Visual Basic para resolver cálculos de processos e projetos de Engenharia. Serão abordadas as principais ferramentas e comandos de criação, desde o projeto conceitual, a elaboração do algoritmo, construção da interface com o usuário e os testes",
+        "palavras-chave": [
+            "Visual Basic",
+            "aplicativo",
+            "cálculos de engenharia"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3mdGHTR"
+    },
+    {
+        "titulo": "Um exemplo de aplicação da integral definida na economia",
+        "dia": "19",
+        "participantes": [
+            "Marjunia Klein"
+        ],
+        "resumo": "A função demanda relaciona a quantidade demandada e preço de uma mercadoria. A função oferta relaciona preço e quantidade oferecida da mercadoria. O excedente de consumo é a diferença entre o que os consumidores estariam dispostos a pagar e o que realmente pagam e é calculado pela integral definida",
+        "palavras-chave": [
+            "Matemática",
+            "Economia",
+            "Integral",
+            "Mercado Financeiro"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3un23lH"
+    },
+    {
+        "titulo": "Microfabricação para dispositivos da saúde",
+        "dia": "22",
+        "participantes": [
+            "Sabrina Esperança Nunes",
+            "Luíse Cambruzzi Dalló"
+        ],
+        "resumo": "Os processos de microfabricação se propõem a desenvolver novas tecnologias capazes de promover o bem-estar e a saúde das pessoas. Nesse bate papo, serão abordados tópicos sobre processos, exemplos e aplicações. Conheça projetos que estão sendo desenvolvidos na Unisinos e o trabalho elaborado por uma graduanda de Eng. Biomédica",
+        "palavras-chave": [
+            "microfabricação",
+            "eletrônica",
+            "sensores",
+            "saude"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3igjiAk"
+    },
+    {
+        "titulo": "Ferramentas livres para projeto de circuito integrado - Parte 1",
+        "dia": "19",
+        "participantes": [
+            "Sandro Binsfeld Ferreira",
+            "Francisco de Assis Brito Filho"
+        ],
+        "resumo": "Recentemente, a Google anunciou um programa de fabricação de circuitos integrados usando ferramentas opensource através da foundry SkyWater. Mas, como é a fabricação de CIs? Será que eu posso projetar CIs usando ferramentas livres?\nNa parte 1 Conheça e instale as ferramentas.",
+        "palavras-chave": [
+            "microeletrônica",
+            "CI",
+            "opensource",
+            "google",
+            "SkyWater"
+        ],
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3D3wqkh"
+    },
+    {
+        "titulo": "Ferramentas livres para projeto de circuito integrado - Parte 2",
+        "dia": "19",
+        "participantes": [
+            "Sandro Binsfeld Ferreira",
+            "Rodrigo Nogueira Wuerdig",
+            "Luís Henrique Rodovalho",
+            "Francisco de Assis Brito Filho"
+        ],
+        "resumo": "Recentemente, a Google anunciou um programa de fabricação de circuitos integrados usando ferramentas opensource através da foundry SkyWater. Mas, como é a fabricação de CIs? Será que eu posso projetar CIs usando ferramentas livres?\nNa parte 2 que tal tirar estas dúvidas em um tutorial Hands-on?",
+        "palavras-chave": [
+            "microeletrônica",
+            "CI",
+            "opensource",
+            "google",
+            "SkyWater"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3ighXcM"
+    },
+    {
+        "titulo": "Estudo de caso NOVUS: Criando um produto IoT, da concepção ao lançamento",
+        "dia": "21",
+        "participantes": [
+            "Sandro Rafael dos Santos"
+        ],
+        "resumo": "Nesta apresentação, o Diretor de P&D da empresa NOVUS Produtos Eletrônicos apresentará o estudo de caso do desenvolvimento de um produto IoT desde a sua concepção até o seu lançamento.\n",
+        "palavras-chave": [
+            "iot",
+            "Novus",
+            "P&D",
+            "estudo de caso"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3D14Cg3"
+    },
+    {
+        "titulo": "Crise hídrica / Racionamento de energia",
+        "dia": "21",
+        "participantes": [
+            "Sara Gabriela Wirti"
+        ],
+        "resumo": "Palestra com a analista em inteligência de mercado na empresa ENGIE Brasil sobre a crise hídrica e o racionamento de energia.",
+        "palavras-chave": [
+            "crise hídrica",
+            "Engie",
+            "racionamento de energia"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3kUeMsO"
+    },
+    {
+        "titulo": "Curso de Design Higiênico ",
+        "dia": "22",
+        "participantes": [
+            "Suse Botelho da Silva",
+            "Walter Andrey Fontana"
+        ],
+        "resumo": "Abordará sobre os equipamentos da indústria e suas características para que seja higiênico e dentro da legislação. ",
         "palavras-chave": [
             "Equipamentos",
-            " design higiênico"
+            "design higiênico "
         ],
-        "horario": "noite"
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/3uoY2wR"
     },
     {
-        "titulo": "Patologias das Construções - Acidentes no Brasil e o que aprendemos com isso.",
-        "dia": "18",
-        "participantes": "Bernardo Tutikian",
-        "resumo": "Acidentes em função de patologias na construção infelizmente são mais comuns do que o desejado, porém, é possível não cometer os mesmos erros do passado estudando-os.",
-        "palavras-chave": [
-            "Patologia",
-            " Construções"
+        "titulo": "Experiências de intercâmbio pela Engenharia",
+        "dia": "22",
+        "participantes": [
+            "Thaise Steffani",
+            "Matheus Pessanha",
+            "Isabella Mi Hyun Kim"
         ],
-        "horario": "tarde"
-    },
-    {
-        "titulo": "Construções Ágeis | Com Pensamento Modular",
-        "dia": "21",
-        "participantes": "Jonathan Degani",
-        "resumo": "Apresentarei a história da Brasil ao Cubo e quem somos. Vocês também conhecerão alguns de nossos cases, como o Edifício Level com 8 pavimentos que foi fabricado e instalado em apenas 100 dias e as unidades hospitalares que construímos durante a pandemia com prazo médio de 33 dias.",
+        "resumo": "Essa palestra será uma troca de experiência entre alunos da Engenharia que fizeram intercambio na área.  Muitas vezes acreditamos que é um sonho distante ter uma experiência fora do Brasil, mas na verdade existe muitas oportunidade. ",
         "palavras-chave": [
-            "modular",
-            " construção",
-            " sustentabilidade",
-            " ágil",
-            " arquitetura"
+            "Intercâmbio",
+            "Engenharias"
         ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Relieve to Live: Desenvolvimento de dispositivos que promovem qualidade de vida e bem estar de pessoas que sofrem de dores crônicas.",
-        "dia": "20",
-        "participantes": "Bruna Letícia Land",
-        "resumo": "O desenvolvimento de tecnologias médicas é muito desafiador, mas pode mudar a vida de muitas pessoas, inclusive as mais próximas de você. Nessa palestra será apresentada a história e processo de desenvolvimento do dispositivo AnaVita da startup Relieve to Live, incubada no Tecnosinos.",
-        "palavras-chave": [
-            "dispositivos médicos",
-            " tecnologia",
-            " saúde",
-            " fisioterapia"
-        ],
-        "horario": "vespertino"
-    },
-    {
-        "titulo": "Evento Magno: E o amanhã?",
-        "dia": "20",
-        "participantes": "Fernando Finger, Arthur Liraneto, Julia Rolim da Silva, Vanuza Braz, Paula Schwade",
-        "resumo": "E o amanhã? Em uma área que muda o tempo todo, que vai do tradicional as tecnologias mais avançadas em questão de dias, como e/ou onde nós estaremos amanhã? Que tal ouvir as histórias de profissionais que podem nos inspirar nessa caminhada?",
-        "palavras-chave": [
-            "nan"
-        ],
-        "horario": "noite"
+        "horario": "vespertino das 18:00 às 19:00",
+        "link": "https://bit.ly/3kTmrYh"
     },
     {
         "titulo": "Materiais Cerâmicos e Exemplos de Aplicações Avançadas",
         "dia": "19",
-        "participantes": "Vânia Caldas de Sousa",
+        "participantes": [
+            "Vânia Caldas de Sousa"
+        ],
         "resumo": "Apresentação dos materiais cerâmicos, composição, propriedades e aplicações avançadas como o uso em células a combustível de estado sólido",
         "palavras-chave": [
             "materiais cerâmicos",
-            " engenharia de materiais",
-            " células a combustível"
+            "engenharia de materiais",
+            "células a combustível"
         ],
-        "horario": "noite"
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/2XUIVzb"
+    },
+    {
+        "titulo": "O que é Futures Literacy e porque precisamos falar sobre isso",
+        "dia": "21",
+        "participantes": [
+            "Yasmim Seadi"
+        ],
+        "resumo": "E se o futuro fosse desenhado através de uma só perspectiva?\n\nAo imaginar diferentes futuros, as pessoas podem se tornar cientes de sua capacidade de moldar e inventar novas suposições, para que possamos apreciar mais plenamente a diversidade do mundo ao nosso redor e as escolhas que fazemos.",
+        "palavras-chave": [
+            "futurismo",
+            "alfabetização de futuro",
+            "tecnologia"
+        ],
+        "horario": "noite das 20:00 às 22:00",
+        "link": "https://bit.ly/39NrCD1"
     }
 ]

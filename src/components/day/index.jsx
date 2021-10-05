@@ -25,9 +25,7 @@ export default function Day(props) {
 
     return (
         <Fragment>
-            <h4>A Semana Acadêmica da Escola Politécnica da Unisinos ocorrerá dos dias 18 à 23 de outuburo de 2021, confira nossa programação abaixo e
-                <a href='' >faça sua inscrição</a>
-            </h4>
+            
             <div className='dropdown' onClick={handleClick}>
                 <h2>{props.title}</h2>
                 <div className={areaExpanded ? 'area-expanded' : 'area-closed'} />
