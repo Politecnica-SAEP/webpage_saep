@@ -2,23 +2,6 @@ import './style.css'
 
 export default function Card(props) {
 
-    
-    // const checkHour = (horario) => {
-    //     if(horario.includes('noite')) {
-    //         return '(20h - 22h)'
-    //     }
-
-    //     if(horario.includes('vespertino')) {
-    //         return '(18h - 19h)'
-    //     }
-
-    //     if(horario.includes('tarde')) {
-    //         return '(15h - 17h)'
-    //     }
-
-    //     return '(8h30 - 11h30)'
-        
-    // }
 
 
     return (
